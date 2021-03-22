@@ -1,19 +1,19 @@
 # Site settings
-title: YAMT
+title: DVOJITÝ KAFE
 description: "Yet Another Minimal Theme"
-url:  "https://pandasekh.github.io/Jekyll-YAMT/" # Actual base url of the website
+url:  "https://dvojitykafe.cz/" # Actual base url of the website
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
-  name: "Alessio Franceschi"
-  email: "alessiofranceschi2@gmail.com"
-  url: "https://alessiofranceschi.me"
+  name: "Edgar Walden"
+  email: "michal.dolezel2@tuta.io"
+  url: "https://michaldolezel.cz"
 permalink: /:year/:month/:day/:title:output_ext
 
 #Plugins
 plugins: [jekyll-paginate, jekyll-feed, jekyll-seo-tag, jekyll-sitemap]
 
 #Pagination
-paginate: 3
+paginate: 10
 paginate_path: "/page:num/"
 
 #SEO
@@ -36,7 +36,7 @@ webmaster_verifications:
   alexa: 
   yandex: 
   baidu: 
-lang: en_US
+lang: cs_CZ
 
 #Highlighter
 kramdown:
