@@ -5,7 +5,7 @@ title: Kdo to tu píše
 
 ### Kdo to tu píše? Edgar Walden
 
-Kdo jsem: Běžec, jogín, zedník amatér, včelař teoretik, tata. Věřím v decentralizaci, horizontální struktury a jednoduchost. Rád koukám k obzoru.
+Kdo jsem: Týpek, co běhá, praktikuje integrální jógu a trochu údolních nauk a občas ještě něco čte. Povahy introvertní a samotářské. Zedník amatér, včelař teoretik a tata. Věřím v decentralizaci, horizontální struktury a jednoduchost. Rád koukám k obzoru.
 
 ### Co tady najdete:
 
