@@ -11,6 +11,8 @@ Naše druhá zima ve vesnickém domě nás zastihla podstatně více připraven�
 
 Znalci říkají, že zima na vesnici je těžší než ve městě. Zatímco v létě na vsi můžete žít hlavně venku, je dlouho světlo, dá se chodit na procházky do krajiny nebo prostě pracovat a být na zahradě, v zimě je to jiné. A něco na tom bude. Ve městě je přece jen intenzivnější osvětlení a víc podobných věcí. Zima na venkově přeje spíš takovému *zavíčkování* a introspekci, ale tomu zase tak nějak nepřeje doba, že jo? Vydělávat se musí, ať je venku světlo, teplo  sluníčko, nebo vlhko, mlha a břečka. Ostatně **ladovská zima** je velký mýtus - tak to na venkově nikdy v zimním období nevypadalo.
 
+![zima na louce](/assets/img/zima.jpg)
+
 No a chodit ven... Příměstská krajina, která připomíná spíš lesopark se stromy plnými barevných čtverečků, tam je samozřejmě lehko vyrazit i přes zimu. To v naší krajině, na které se dost nepříjemně podepisuje industrializované zemědělství, je to jiné. Cesty jsou obvykle plné bahna a rozježděné od traktorů a čtyřkolkářů. Takže holínky, ale v těch se zase dost blbě hodí. Běhat moc nelze - snad jen po asfaltkách určených pro kombajny.
 
 Každopádně ale nechci, aby celý tento post vypadal jako stížnost. Ono, když sedíte v paneláku na kraji Brna, tak taková zima taky není obvykle nic moc povznášejícího. Navíc teď v lednu už se dny prodlužují a když vykoukne sluníčko a můžete vyrazit na zahradu, už tam skoro to jaro vidíte. A co mě zimy na vsi naučily?
