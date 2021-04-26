@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Seznamte se s Jekyllem
-date: 2021-04-26 13:00:23
+date: 2021-04-26 00:00:23
 author: Edgar Walden
 tags: [Werkzeug]
 image: type.jpg
