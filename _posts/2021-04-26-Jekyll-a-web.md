@@ -4,7 +4,7 @@ title: Seznamte se s Jekyllem
 date: 2021-04-26 00:00:23
 author: Edgar Walden
 tags: [Werkzeug]
-image: typewriter.jpg
+image: /assets/img/typewriter.jpg
 ---
 O generátorech statických webů jsem se poprvé dočetl nejspíš na webu Maxiorel.cz. Honza Polzer takto udělal jeden web pomocí generátoru [Hugo](https://gohugo.io/), a prý to s drobnými obtížemi pro malý projekt funguje. Tvořit přímo statické webové stránky bez nutnosti dalších technologií na serveru (PHP, MySQL) mi už tehdy přišlo docela cool. Mám totiž rád jednoduché věci, které dělají právě to co mají.  Nic méně ale i nic více. Třeba proto tento post píšu v [editoru Typora](https://typora.io/) a ne třeba ve Wordu. Právě proto mě myšlenka generovat statické stránky docela zaujala. Takovýto web je také super rychlý a taky nehacknutelný (no aspoň myslím).
 
