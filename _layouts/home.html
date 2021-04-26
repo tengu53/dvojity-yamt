@@ -34,7 +34,7 @@ title: Home
         {% else %}
             {{ post.content | strip_html | truncatewords:50 }}
         {% endif %}
-        <span class = "continue-reading"><a href="{{ post.url | relative_url }}">Continue reading...</a></span>
+        <span class = "continue-reading"><a href="{{ post.url | relative_url }}">Číst dál...</a></span>
     </p> 
 </div>
 {% endfor %}
@@ -43,10 +43,10 @@ title: Home
 <div class = "paginator">
     {% if paginator.total_pages > 1 %}
     {% if paginator.next_page %}
-      <a class = "older paginate-button" href="{{ paginator.next_page_path | relative_url }}">Older Posts</a>
+      <a class = "older paginate-button" href="{{ paginator.next_page_path | relative_url }}">Starší posty</a>
     {% endif %}
     {% if paginator.previous_page %}
-    <a class = "newer paginate-button" href="{{ paginator.previous_page_path | relative_url }}">Newer Posts</a>
+    <a class = "newer paginate-button" href="{{ paginator.previous_page_path | relative_url }}">Novější posty</a>
   {% endif %}
   {% endif %}
 </div>

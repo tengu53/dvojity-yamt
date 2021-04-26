@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Thank you!
+title: Díky!
 ---
 
 
-## THANK YOU!
+## Díky!
 <div class = "success">
-    <p>Your form submission has been received. I will get back to you shortly.</p>
-    <a href="/">Go back to the homepage.</a>
+    <p>Vaše zpráva ke mě brzy probublá a vezmu si ji k srdci.</p>
+    <a href="/">Zpět na hlavní stranu.</a>
 </div>
