@@ -8,7 +8,7 @@ image: /assets/img/typewriter.jpg
 ---
 O generátorech statických webů jsem se poprvé dočetl nejspíš na webu Maxiorel.cz. Honza Polzer takto udělal jeden web pomocí generátoru [Hugo](https://gohugo.io/), a prý to s drobnými obtížemi pro malý projekt funguje. Tvořit přímo statické webové stránky bez nutnosti dalších technologií na serveru (PHP, MySQL) mi už tehdy přišlo docela cool. Mám totiž rád jednoduché věci, které dělají právě to co mají.  Nic méně ale i nic více. Třeba proto tento post píšu v [editoru Typora](https://typora.io/) a ne třeba ve Wordu. Právě proto mě myšlenka generovat statické stránky docela zaujala. Takovýto web je také super rychlý a taky nehacknutelný (no aspoň myslím).
 
-Obecně si myslím, že jde o trend, a v podstatě si nedovedu představit třeba produktovou mikrosite nebo malý osobní web, který by byl udělán jinak, než pomocí generátoru. Generátor statických stránek prostě pro tyto případy ideální a ělat takový web na Wordpressu asi nemá smysl. I když je možné to udělat tak, že se Wordpress použije jenom jako backend a statické stránky se vygenerují nějakým pluginem. Někde na webu jsem na to viděl pěknou případovku a možná to někdy jen tak z legrace zkusím.  
+Obecně si myslím, že jde o trend, a v podstatě si nedovedu představit třeba produktovou mikrosite nebo malý osobní web, který by byl udělán jinak, než pomocí generátoru. Generátor statických stránek prostě pro tyto případy ideální a používat v tomto případě Wordpress asi nemá smysl. I když je možné to udělat tak, že se Wordpress použije jenom jako backend a statické stránky se vygenerují nějakým pluginem. Někde na webu jsem na to viděl pěknou případovku a možná to někdy jen tak z legrace zkusím.  
 
 Generátorů statických webů je spousta. Ty, které jsem jen tak letmo viděl, pracují přibližně na podobném principu:
 
@@ -48,7 +48,7 @@ Naopak dobrý generátor statických webů by zde byl mnohem vhodnější. Vytvo
 
 Velkou výhodou takového řešení je také dobrá škálovatelnost. Třeba na [Netlify](https://www.netlify.com/) je možné začít s verzí zdarma, pak při ostrém nasazení jít do nějakého základního tarifu a ten pak případně podle rostoucího provozu zvyšovat. Netlify umí pořešit i sběr dat z kontaktních formulářů na stránkách a jejich export do CSV, což je dobré. 
 
-Při diskusi v naší agentuře, jsme ale přišli na některé další nevýhody. Web samozřejmě potřebuje grafiku a kodéři jsou zvyklí spíš na ten Wordpress. Takže může být těžší sehnat na takový projekt vhodné pracovní síly. I tak ale může jít o zajímavé a praktické řešení. Ostatně na Jekyllu a CDN Netlify běží i tento blog a plánuju tady i další malý obsahový projekt.  
+Při diskusi v naší agentuře, jsme ale přišli na některé další nevýhody. Web samozřejmě potřebuje grafiku a kodéři jsou zvyklí spíš na ten Wordpress. Takže může být těžší sehnat na takový projekt vhodné pracovní síly. I tak ale může jít o zajímavé a praktické řešení. Ostatně na Jekyllu a CDN Netlify běží i tento blog a plánuju takto i další malý obsahový projekt.   
 
 
 
