@@ -10,7 +10,7 @@ Po dlouhé době se nám s D. podařilo vyjet na prodloužený víkend na takov�
 
 ![Jeseníky](/assets/img/jeseniky-cover.jpg)
 
-S D. jsme podnikali spíš kratší vycházky. Ale zbylo mi i dost času na dva sportovnější večerní výšlapy - jeden z Šeráku po žluté značce na **Obří skály** - tady malá meditace a sežvýkání trošky slunečnicových semínek - a pak zase po modré nahoru. Prostě 400 výškových metrů dolů a zpět. Rychlá chůze, rytmický dech, pak zklidnění a vrcholu Šeráku a večeře s D. chatě. Druhý samotný večerní výlet by méně namáhavý, ale za to delší - z Šeráku na Keprník, do sedla pod Vřesovou studánkou a stejnou cestou zpět. Cestou rašeliniště, několik dešťových přeháněk a krupobití. A zima. 
+S D. jsme podnikali spíš kratší vycházky. Ale zbylo mi i dost času na dva sportovnější večerní výšlapy - jeden z Šeráku po žluté značce na **Obří skály** - tady malá meditace a sežvýkání trošky slunečnicových semínek - a pak zase po modré nahoru. Prostě 400 výškových metrů dolů a zpět. Rychlá chůze, rytmický dech, pak zklidnění a vrcholu Šeráku a večeře s D. v chatě. Druhý samotný večerní výlet byl méně namáhavý, ale za to delší - z Šeráku na Keprník, do sedla pod Vřesovou studánkou a stejnou cestou zpět. Cestou rašeliniště, několik dešťových přeháněk a krupobití. A zima. 
 
 ## Nordic walking po cestě zenu
 
