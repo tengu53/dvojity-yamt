@@ -8,6 +8,8 @@ image: /assets/img/jeseniky-cover.jpg
 
 Po dlouhé době se nám s D. podařilo vyjet na prodloužený víkend na takový "vandr". No teda vandr... Domluvili jsme si ubytování v Jeseníkách v chatě na Šeráku. To už jsem si dlouho přál, je odtud krásný výhled na část Rychlebských hor a do údolí na Lipovou a Jeseník. Taky je to hodně vysoko, takže je tady hodně **prány**. A právě ten pránický dostatek jsem pocítil na vlastní kůži - cítil jsem se, že zvládnu cokoli. Bylo to až euforické. No pro svůj život asi čas od času potřebuju vyšší nadmořskou výšku... Je to dáno taky asi tím, že žiju v nížině plné zhusta zamračených a hrabivých lidí. Ale o tom někdy jindy.
 
+![Jeseníky](/assets/img/jeseniky-cover.jpg)
+
 S D. jsme podnikali spíš kratší vycházky. Ale zbylo mi i dost času na dva sportovnější večerní výšlapy - jeden z Šeráku po žluté značce na **Obří skály** - tady malá meditace a sežvýkání trošky slunečnicových semínek - a pak zase po modré nahoru. Prostě 400 výškových metrů dolů a zpět. Rychlá chůze, rytmický dech, pak zklidnění a vrcholu Šeráku a večeře s D. chatě. Druhý samotný večerní výlet by méně namáhavý, ale za to delší - z Šeráku na Keprník, do sedla pod Vřesovou studánkou a stejnou cestou zpět. Cestou rašeliniště, několik dešťových přeháněk a krupobití. A zima. 
 
 ## Nordic walking po cestě zenu
