@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 
 title: Co se v květnu a začátkem června povedlo?
 author: Edgar Walden
 categories: [stimmung, lifespan]
